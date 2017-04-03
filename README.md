@@ -6,3 +6,4 @@ First startup
 
 ### April 3, 2017
 - [How to Get Split-Screen Browser Windows in Chrome, Safari, Firefox, and Internet Explorer « Digiwonk](https://digiwonk.gadgethacks.com/how-to/get-split-screen-browser-windows-chrome-safari-firefox-and-internet-explorer-0140158/) 
+- [How to Hack a Skype Password « Digiwonk](https://digiwonk.gadgethacks.com/how-to/hack-skype-password-0139683/) 
